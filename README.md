@@ -7,7 +7,7 @@ Este repositorio contiene una colección de wallpapers de alta calidad para todo
 
 ## 📥 Instalación
 
-Para clonar este repositorio y usar los wallpapers en tu computadora, sigue estos pasos:
+Para clonar este repositorio y usar los wallpapers en tu ordenador, sigue estos pasos:
 
 ```bash
 git clone https://github.com/juxnillo/wallpapers.git
