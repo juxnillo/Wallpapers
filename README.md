@@ -12,16 +12,31 @@ Para clonar este repositorio y usar los wallpapers en tu computadora, sigue esto
 ```bash
 git clone https://github.com/juxnillo/wallpapers.git
 cd wallpapers
+```
+**Ejemplos:**
 
 
-Ejemplos
 
-Astro
+**Astro**
+
 ![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/GRUVBOX/gruvbox_astro.jpg)
 
-Joyboy
-![Wallappers banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/GRUVBOX/joyboy.png)
+**Joyboy**
 
-Anime Girls
+![Wallppers banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/GRUVBOX/joyboy.png)
+
+**Anime Girls**
+
 ![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/VARIETY/00326.jpg)
 
+**Cherry MX**
+
+![Wallpaper banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/VARIETY/cherry.jpg)
+
+**Nier**
+
+![Wallpaper banner](https://github.com/juxnillo/wallpapers/blob/main/GAMES/nier.png?raw=true)
+
+**Persona 3**
+
+![Wallpaper banner](https://github.com/juxnillo/wallpapers/blob/main/GAMES/Persona3.png?raw=true)
