@@ -14,4 +14,14 @@ git clone https://github.com/juxnillo/wallpapers.git
 cd wallpapers
 
 
+Ejemplos
+
+Astro
+![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/GRUVBOX/gruvbox_astro.jpg)
+
+Joyboy
+![Wallappers banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/GRUVBOX/joyboy.png)
+
+Anime Girls
+![Wallpapers Banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/VARIETY/00326.jpg)
 
