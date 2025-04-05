@@ -33,10 +33,10 @@ cd wallpapers
 
 ![Wallpaper banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/VARIETY/cherry.jpg)
 
-**Nier**
+**Yae Sakura**
 
-![Wallpaper banner](https://github.com/juxnillo/wallpapers/blob/main/GAMES/nier.png?raw=true)
+![Wallpaper banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/GAMES/yaesakura.png)
 
-**Persona 3**
+**Persona 5**
 
-![Wallpaper banner](https://github.com/juxnillo/wallpapers/blob/main/GAMES/Persona3.png?raw=true)
+![Wallpaper banner](https://raw.githubusercontent.com/juxnillo/wallpapers/refs/heads/main/GAMES/persona5.png)
